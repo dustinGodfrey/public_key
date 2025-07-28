@@ -1,14 +1,14 @@
-# 🔐 Dustin's Public Certificate
+#  Dustin's Public Certificate
 
 This repository contains my public certificate (`dustin_pubkey.crt`) that you can use to:
 
-- 🔒 Encrypt secure messages to me
-- ✅ Verify digital signatures I've made
-- 🧾 Validate that this certificate is trusted (via my Root CA)
+-  Encrypt secure messages to me
+-  Verify digital signatures I've made
+-  Validate that this certificate is trusted (via my Root CA)
 
 ---
 
-## 📬 Encrypt a Message to Me
+##  Encrypt a Message to Me
 
 To encrypt a plaintext message (`message.txt`) using my public cert:
 
